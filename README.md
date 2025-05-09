@@ -25,7 +25,7 @@ A curated list of awesome links related to application security related to the e
 
 ## Configuration
 
-- [gixy](https://github.com/yandex/gixy/) - a tool to analyze Nginx configuration to prevent security misconfiguration
+- [gixy-ng](https://github.com/dvershinin/gixy) - a tool to analyze Nginx configuration to prevent security misconfiguration
 - [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) - Online nginx configuration generator for general purposes.
 
 ## WAF for NGINX. Protect APIs, applications and microservices
